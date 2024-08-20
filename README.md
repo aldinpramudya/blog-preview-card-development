@@ -11,7 +11,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![](./assets/images/screenshot-hover.jpg)
 
 ### Link
-- Github pages -
+- Github pages - https://aldinpramudya.github.io/blog-preview-card-development/
 
 ## Author
 - Frontend Mentor - [@aldinpramudya](https://www.frontendmentor.io/profile/aldinpramudya)
